@@ -32,7 +32,7 @@ portrait_caption: >-
 
 education:
 - name: University of Chinese Academy of Sciences
-  logo: \assets\images\badges\z19_logo.png
+  logo: /assets/images/badges/z19_logo.png
   position: Master Student in School of Mathematic
   date: Sep. 2022 - present
 - name: Shandong University
