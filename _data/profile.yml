@@ -22,12 +22,8 @@ github: drahakunna
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+  I am a master's student at the School of Mathematical Sciences, University of Chinese Academy of Sciences, specializing in deep learning and computer vision. 
+  My current research focuses on motion transfer algorithms based on generative models, aiming to explore innovative applications of artificial intelligence in complex scenarios.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,16 +31,12 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: University of Chinese Academy of Sciences
+  position: Master Student in School of Mathematic
+  date: Sep. 2022 - present
+- name: Shandong University
+  position: B.S. in Mathematic
+  date: Sep. 2018 - Jul. 2022
 
 # experience:
 # - name: Peking University
@@ -53,9 +45,6 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
+- name: China National Scholarship
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+
